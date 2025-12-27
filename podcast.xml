@@ -2,19 +2,19 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <atom:link href="https://hisakojp.github.io/mukashimukashi/podcast.xml" rel="self" type="application/rss+xml"/>
-    <title>ひさ子おばあちゃんの昔話</title>
+    <title>ひさこばあばのむかしむかし</title>
     <link>https://hisakojp.github.io/mukashimukashi/</link>
     <language>ja</language>
-    <copyright>© 2025 ひさ子</copyright>
-    <description>94歳のひさ子おばあちゃんが語る、心温まる日本の昔話。毎日お届けします。</description>
-    <lastBuildDate>Sat, 27 Dec 2025 18:35:17 +0900</lastBuildDate>
-    <itunes:author>ひさ子</itunes:author>
-    <itunes:summary>94歳のひさ子おばあちゃんが語る、心温まる日本の昔話。毎日お届けします。</itunes:summary>
+    <copyright>© 2025 ひさこばあば</copyright>
+    <description>昭和16年生まれ今年95歳のひさこばあばが語るやさしい民話</description>
+    <lastBuildDate>Sat, 27 Dec 2025 19:23:07 +0900</lastBuildDate>
+    <itunes:author>ひさこばあば</itunes:author>
+    <itunes:summary>昭和16年生まれ今年95歳のひさこばあばが語るやさしい民話</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>serial</itunes:type>
     <itunes:owner>
-      <itunes:name>ひさ子</itunes:name>
-      <itunes:email>podcast@example.com</itunes:email>
+      <itunes:name>ひさこばあば</itunes:name>
+      <itunes:email>hisakobaa@gmail.comm</itunes:email>
     </itunes:owner>
     <itunes:image href="https://hisakojp.github.io/mukashimukashi/podcast_cover.jpg"/>
     <itunes:category text="Society &amp; Culture">
@@ -45,7 +45,7 @@ https://forms.gle/G4zX4ocLtph21EhKA
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
-      <itunes:author>ひさ子</itunes:author>
+      <itunes:author>ひさこばあば</itunes:author>
     </item>
   </channel>
 </rss>
