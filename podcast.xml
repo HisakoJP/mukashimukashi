@@ -7,7 +7,7 @@
     <language>ja</language>
     <copyright>© 2025 ひさこばあば</copyright>
     <description>昭和16年生まれ今年95歳のひさこばあばが語るやさしい民話</description>
-    <lastBuildDate>Sun, 28 Dec 2025 10:10:58 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 06:00:03 +0900</lastBuildDate>
     <itunes:author>ひさこばあば</itunes:author>
     <itunes:summary>昭和16年生まれ今年95歳のひさこばあばが語るやさしい民話</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -27,7 +27,7 @@
 94歳のひさ子おばあちゃんが語る昔話です。
 
 🎧 この話の感想をお聞かせください：
-<a href="https://forms.gle/G4zX4ocLtph21EhKA">こちらのフォームから</a>
+https://forms.gle/G4zX4ocLtph21EhKA
 
 📚 全863話を順次公開中</description>
       <itunes:summary>3人の弟子
@@ -35,7 +35,7 @@
 94歳のひさ子おばあちゃんが語る昔話です。
 
 🎧 この話の感想をお聞かせください：
-<a href="https://forms.gle/G4zX4ocLtph21EhKA">こちらのフォームから</a>
+https://forms.gle/G4zX4ocLtph21EhKA
 
 📚 全863話を順次公開中</itunes:summary>
       <enclosure url="https://hisakojp.github.io/mukashimukashi/3人の弟子.m4a" type="audio/mp4" length="1306940"/>
@@ -54,7 +54,7 @@
 94歳のひさ子おばあちゃんが語る昔話です。
 
 🎧 この話の感想をお聞かせください：
-<a href="https://forms.gle/G4zX4ocLtph21EhKA">こちらのフォームから</a>
+https://forms.gle/G4zX4ocLtph21EhKA
 
 📚 全863話を順次公開中</description>
       <itunes:summary>7つの滝壺の蛇
@@ -62,7 +62,7 @@
 94歳のひさ子おばあちゃんが語る昔話です。
 
 🎧 この話の感想をお聞かせください：
-<a href="https://forms.gle/G4zX4ocLtph21EhKA">こちらのフォームから</a>
+https://forms.gle/G4zX4ocLtph21EhKA
 
 📚 全863話を順次公開中</itunes:summary>
       <enclosure url="https://hisakojp.github.io/mukashimukashi/7つの滝壺の蛇.m4a" type="audio/mp4" length="1936978"/>
@@ -72,6 +72,33 @@
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
+      <itunes:author>ひさこばあば</itunes:author>
+    </item>
+    <item>
+      <title>第3話: ‗学徒動員のころ</title>
+      <description>‗学徒動員のころ
+
+94歳のひさ子おばあちゃんが語る昔話です。
+
+🎧 この話の感想をお聞かせください：
+https://forms.gle/G4zX4ocLtph21EhKA
+
+📚 全863話を順次公開中</description>
+      <itunes:summary>‗学徒動員のころ
+
+94歳のひさ子おばあちゃんが語る昔話です。
+
+🎧 この話の感想をお聞かせください：
+https://forms.gle/G4zX4ocLtph21EhKA
+
+📚 全863話を順次公開中</itunes:summary>
+      <enclosure url="https://hisakojp.github.io/mukashimukashi/‗学徒動員のころ.m4a" type="audio/mp4" length="131"/>
+      <guid isPermaLink="false">https://hisakojp.github.io/mukashimukashi/‗学徒動員のころ.m4a</guid>
+      <pubDate>Mon, 29 Dec 2025 09:00:00 +0900</pubDate>
+      <itunes:duration>600</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
       <itunes:author>ひさこばあば</itunes:author>
     </item>
   </channel>
