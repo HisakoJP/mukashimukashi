@@ -7,7 +7,7 @@
     <language>ja</language>
     <copyright>© 2025 ひさこばあば</copyright>
     <description>昭和16年生まれ今年95歳のひさこばあばが語るやさしい民話</description>
-    <lastBuildDate>Sat, 27 Dec 2025 19:23:07 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 10:10:58 +0900</lastBuildDate>
     <itunes:author>ひさこばあば</itunes:author>
     <itunes:summary>昭和16年生まれ今年95歳のひさこばあばが語るやさしい民話</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -45,6 +45,33 @@ https://forms.gle/G4zX4ocLtph21EhKA
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
+      <itunes:author>ひさこばあば</itunes:author>
+    </item>
+    <item>
+      <title>第2話: 7つの滝壺の蛇</title>
+      <description>7つの滝壺の蛇
+
+94歳のひさ子おばあちゃんが語る昔話です。
+
+🎧 この話の感想をお聞かせください：
+https://forms.gle/G4zX4ocLtph21EhKA
+
+📚 全863話を順次公開中</description>
+      <itunes:summary>7つの滝壺の蛇
+
+94歳のひさ子おばあちゃんが語る昔話です。
+
+🎧 この話の感想をお聞かせください：
+https://forms.gle/G4zX4ocLtph21EhKA
+
+📚 全863話を順次公開中</itunes:summary>
+      <enclosure url="https://hisakojp.github.io/mukashimukashi/7つの滝壺の蛇.m4a" type="audio/mp4" length="1936978"/>
+      <guid isPermaLink="false">https://hisakojp.github.io/mukashimukashi/7つの滝壺の蛇.m4a</guid>
+      <pubDate>Sun, 28 Dec 2025 09:00:00 +0900</pubDate>
+      <itunes:duration>600</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
       <itunes:author>ひさこばあば</itunes:author>
     </item>
   </channel>
